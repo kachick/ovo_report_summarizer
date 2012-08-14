@@ -1,0 +1,32 @@
+For User
+========
+
+* ネットに散らばっていたレポートデータの断片を参考にしている為、対応範囲がちぐはぐです。
+  具体的には日本語詳細フォーマットと、英語の簡易(？)フォーマットにのみ対応している状態だと思います。
+  各言語・各種形式でのレポートデータさえ提供してもらえれば対応できるかと思います。
+
+* 「最終受信時刻」付きのエントリが現れると、エラー出して止まる筈。(サンプルがみっかんない為)
+
+For Developper
+==============
+
+      12/09/01 10:08:47 終了     未定義   crit foo           www.example.com
+               ソース・タイプ  : bar
+
+というのがあらわれると51行、現れないと50行
+
+ヘッダに付与される「# Report Date: 12/09/08」部分の並びは、日本語版と英語版で違っている様子。
+そんな事気にするぐらいだったら最初から西暦4桁で表示してくれればいいのに・・・
+
+
+google経由で散見できるレポートデータ断片集
+------------------------------------------
+
+http://www.experts-exchange.com/Programming/Languages/Scripting/Perl/Q_22712983.html
+
+http://h30499.www3.hp.com/t5/Systems-Management-OpenView-OP/OMU8-How-to-find-out-the-sql-query-for-Report-on-Messages/td-p/5126370#.UCm5kKDTDZ8
+
+http://h30499.www3.hp.com/t5/Systems-Management-OpenView-OP/Java-GUI-printing-remove-quot-Report-Definition-quot-Header/td-p/3308879#.UCm5jqDTDZ8
+
+http://www.linuxquestions.org/questions/programming-9/formatting-text-676711/
+

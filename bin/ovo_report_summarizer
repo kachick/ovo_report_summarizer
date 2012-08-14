@@ -1,0 +1,6 @@
+#!/usr/local/bin/ruby -w
+# Copyright (C) 2012 Kenichi Kamiya
+
+require_relative '../lib/ovo_report_summarizer'
+
+OVO_Report_Summarizer.run
