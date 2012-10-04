@@ -1,5 +1,3 @@
-require File.expand_path('../lib/ovo_report_summarizer', __FILE__)
-
 Gem::Specification.new do |gem|
   gem.authors       = ['Kenichi Kamiya']
   gem.email         = ['kachick1+ruby@gmail.com']
@@ -13,7 +11,7 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.name          = 'ovo_report_summarizer'
   gem.require_paths = ['lib']
-  gem.version       = OVO_Report_Summarizer::VERSION.dup
+  gem.version       = '0.0.1.1'
 
   gem.required_ruby_version = '>= 1.9.2'
 
