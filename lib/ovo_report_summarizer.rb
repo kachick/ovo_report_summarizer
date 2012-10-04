@@ -1,7 +1,7 @@
 require 'csv'
 require 'logger'
 require 'lettercase'
-require 'lettercase/ext'
+require 'lettercase/core_ext'
 require_relative 'openviewoperations/report'
 
 class Time
@@ -20,7 +20,7 @@ end
 
 module OVO_Report_Summarizer
 
-  VERSION = '0.0.1'
+  VERSION = '0.0.1.1'.freeze
 
   extend OpenViewOperations
 
