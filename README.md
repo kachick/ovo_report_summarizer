@@ -22,7 +22,7 @@ $ ovo_report_summarizer report-file
 Requirements
 ------------
 
-* Ruby - [1.9.2 or later](http://travis-ci.org/#!/kachick/ovo_report_summarizer
+* Ruby - [1.9.2 or later](http://travis-ci.org/#!/kachick/ovo_report_summarizer)
 * [striuct](https://github.com/kachick/striuct) - 0.4.0
 * [lettercase](https://github.com/kachick/lettercase) - 0.0.3
 
