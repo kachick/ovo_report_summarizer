@@ -1,4 +1,4 @@
-#!/usr/local/bin/ruby -w
+#!/usr/bin/env ruby
 # Copyright (C) 2012 Kenichi Kamiya
 
 require_relative '../lib/ovo_report_summarizer'
