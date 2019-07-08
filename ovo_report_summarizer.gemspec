@@ -13,12 +13,10 @@ Gem::Specification.new do |gem|
   gem.require_paths = ['lib']
   gem.version       = '0.0.1.1'
 
-  gem.required_ruby_version = '>= 1.9.2'
+  gem.add_runtime_dependency 'striuct', '~> 0.6.1'
+  gem.add_runtime_dependency 'lettercase', '~> 0.1.0'
 
-  gem.add_runtime_dependency 'striuct', '~> 0.4.0'
-  gem.add_runtime_dependency 'lettercase', '~> 0.0.3'
-
-  gem.add_development_dependency 'declare', '~> 0.0.5'
-  gem.add_development_dependency 'yard', '~> 0.8'
+  gem.add_development_dependency 'declare', '~> 0.1.0'
+  gem.add_development_dependency 'yard', '>= 0.9.20', '< 2'
 end
 
