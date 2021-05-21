@@ -1,6 +1,10 @@
 ovo_report_summarizer
 =====================
 
+* ***This repository is archived***
+* ***No longer maintained***
+* ***All versions have been yanked from https://rubygems.org/ for releasing valuable namespace for others***
+
 Description
 ------------
 
@@ -22,27 +26,7 @@ $ ovo_report_summarizer report-file
 Requirements
 ------------
 
-* Ruby - [2.5 or later](http://travis-ci.org/#!/kachick/ovo_report_summarizer)
-
-Install
--------
-
-```bash
-$ gem install ovo_report_summarizer
-```
-
-Build Status
-------------
-
-[![Build Status](https://secure.travis-ci.org/kachick/ovo_report_summarizer.png)](http://travis-ci.org/kachick/ovo_report_summarizer)
-
-Link
-----
-
-* [code](https://github.com/kachick/ovo_report_summarizer)
-* [issues](https://github.com/kachick/ovo_report_summarizer/issues)
-* [CI](http://travis-ci.org/#!/kachick/ovo_report_summarizer)
-* [gem](https://rubygems.org/gems/ovo_report_summarizer)
+* Ruby 2.5 or later
 
 License
 -------
