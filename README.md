@@ -7,7 +7,7 @@ Description
 An utility for the OVO(OpenViewOperations).
 "Report file" to a csv file.
 
-Feutures
+Features
 --------
 
 * Author is just a user of OVO, Of course "No Warranty" :)
